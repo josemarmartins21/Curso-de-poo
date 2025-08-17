@@ -1,2 +1,2 @@
 # Curso-de-poo
-exercucios do curso de POO de Java e PHP
+exercicios do curso de POO de Java e PHP
